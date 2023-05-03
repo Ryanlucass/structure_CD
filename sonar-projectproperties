@@ -1,0 +1,7 @@
+sonar.organization=ryanlucass
+sonar.projectKey=ryanlucass_structure_CD
+sonar.sources=.
+sonar.language=js,jsx,ts,tsx
+sonar.javascript.file.suffixes=.js,.jsx
+sonar.typescript.file.suffixes=.ts,.tsx
+sonar.sourceEnconding=UTF-8
